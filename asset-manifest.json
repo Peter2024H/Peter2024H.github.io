@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.2cd22ed6.css",
+    "main.css": "/static/css/main.55683c1b.css",
     "main.js": "/static/js/main.0e76df6e.js",
     "static/js/592.c57cb18d.chunk.js": "/static/js/592.c57cb18d.chunk.js",
     "static/media/Town_of_Windmill.mp3": "/static/media/Town_of_Windmill.42bff220024a484fadda.mp3",
@@ -8,12 +8,12 @@
     "static/media/book.jpg": "/static/media/book.2295b3dd660268fc64a5.jpg",
     "static/media/music.jpg": "/static/media/music.14b3110677e752d8a6ae.jpg",
     "index.html": "/index.html",
-    "main.2cd22ed6.css.map": "/static/css/main.2cd22ed6.css.map",
+    "main.55683c1b.css.map": "/static/css/main.55683c1b.css.map",
     "main.0e76df6e.js.map": "/static/js/main.0e76df6e.js.map",
     "592.c57cb18d.chunk.js.map": "/static/js/592.c57cb18d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cd22ed6.css",
+    "static/css/main.55683c1b.css",
     "static/js/main.0e76df6e.js"
   ]
 }
