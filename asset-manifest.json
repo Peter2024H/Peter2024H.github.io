@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.cd7e6865.css",
-    "main.js": "/static/js/main.1d4b8385.js",
+    "main.js": "/static/js/main.94487a2d.js",
     "static/js/592.c57cb18d.chunk.js": "/static/js/592.c57cb18d.chunk.js",
+    "static/media/movie.jpg": "/static/media/movie.b0a719f7d6ac3881a81f.jpg",
     "static/media/Town_of_Windmill.mp3": "/static/media/Town_of_Windmill.42bff220024a484fadda.mp3",
     "static/media/usricon.jpg": "/static/media/usricon.44b518d2fb9633f7ffab.jpg",
-    "static/media/movie.jpg": "/static/media/movie.3f2be38d5fc55011a604.jpg",
     "static/media/book.jpg": "/static/media/book.2295b3dd660268fc64a5.jpg",
     "static/media/music.jpg": "/static/media/music.14b3110677e752d8a6ae.jpg",
     "index.html": "/index.html",
     "main.cd7e6865.css.map": "/static/css/main.cd7e6865.css.map",
-    "main.1d4b8385.js.map": "/static/js/main.1d4b8385.js.map",
+    "main.94487a2d.js.map": "/static/js/main.94487a2d.js.map",
     "592.c57cb18d.chunk.js.map": "/static/js/592.c57cb18d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd7e6865.css",
-    "static/js/main.1d4b8385.js"
+    "static/js/main.94487a2d.js"
   ]
 }
