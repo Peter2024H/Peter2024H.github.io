@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd7e6865.css",
-    "main.js": "/static/js/main.ece4256f.js",
+    "main.css": "/static/css/main.7941cb85.css",
+    "main.js": "/static/js/main.65bdaa08.js",
     "static/js/592.c57cb18d.chunk.js": "/static/js/592.c57cb18d.chunk.js",
     "static/media/movie.jpg": "/static/media/movie.b0a719f7d6ac3881a81f.jpg",
     "static/media/Town_of_Windmill.mp3": "/static/media/Town_of_Windmill.42bff220024a484fadda.mp3",
     "static/media/usricon.jpg": "/static/media/usricon.44b518d2fb9633f7ffab.jpg",
     "static/media/book.jpg": "/static/media/book.2295b3dd660268fc64a5.jpg",
+    "static/media/goodreads.png": "/static/media/goodreads.b1789f1c8bb58b4b74b4.png",
+    "static/media/Spotify.png": "/static/media/Spotify.0c4ae91bae23217d39c9.png",
     "static/media/music.jpg": "/static/media/music.14b3110677e752d8a6ae.jpg",
+    "static/media/books.png": "/static/media/books.930ff5b0e8446a2b8940.png",
     "index.html": "/index.html",
-    "main.cd7e6865.css.map": "/static/css/main.cd7e6865.css.map",
-    "main.ece4256f.js.map": "/static/js/main.ece4256f.js.map",
+    "main.7941cb85.css.map": "/static/css/main.7941cb85.css.map",
+    "main.65bdaa08.js.map": "/static/js/main.65bdaa08.js.map",
     "592.c57cb18d.chunk.js.map": "/static/js/592.c57cb18d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd7e6865.css",
-    "static/js/main.ece4256f.js"
+    "static/css/main.7941cb85.css",
+    "static/js/main.65bdaa08.js"
   ]
 }
