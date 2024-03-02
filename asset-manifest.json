@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.7941cb85.css",
-    "main.js": "/static/js/main.65bdaa08.js",
+    "main.css": "/static/css/main.8b78bf45.css",
+    "main.js": "/static/js/main.6980357b.js",
     "static/js/592.c57cb18d.chunk.js": "/static/js/592.c57cb18d.chunk.js",
     "static/media/movie.jpg": "/static/media/movie.b0a719f7d6ac3881a81f.jpg",
     "static/media/Town_of_Windmill.mp3": "/static/media/Town_of_Windmill.42bff220024a484fadda.mp3",
+    "static/media/still-life.png": "/static/media/still-life.50c62b8e72b218c096b2.png",
+    "static/media/TheTaleofPeterRabbit.jpg": "/static/media/TheTaleofPeterRabbit.feb211592e56ee47be9c.jpg",
     "static/media/usricon.jpg": "/static/media/usricon.44b518d2fb9633f7ffab.jpg",
+    "static/media/and_then_there_were_none.jpg": "/static/media/and_then_there_were_none.20df6cfa1fd033b8014c.jpg",
     "static/media/book.jpg": "/static/media/book.2295b3dd660268fc64a5.jpg",
+    "static/media/TheLittlePrince.jpg": "/static/media/TheLittlePrince.988b8013c032099a7423.jpg",
     "static/media/goodreads.png": "/static/media/goodreads.b1789f1c8bb58b4b74b4.png",
     "static/media/Spotify.png": "/static/media/Spotify.0c4ae91bae23217d39c9.png",
+    "static/media/IntroToAlgo.jpg": "/static/media/IntroToAlgo.755b685ceb7b2525b728.jpg",
     "static/media/music.jpg": "/static/media/music.14b3110677e752d8a6ae.jpg",
+    "static/media/Life_After_Life.jpg": "/static/media/Life_After_Life.1812a9959dcb0498fd48.jpg",
     "static/media/books.png": "/static/media/books.930ff5b0e8446a2b8940.png",
     "index.html": "/index.html",
-    "main.7941cb85.css.map": "/static/css/main.7941cb85.css.map",
-    "main.65bdaa08.js.map": "/static/js/main.65bdaa08.js.map",
+    "main.8b78bf45.css.map": "/static/css/main.8b78bf45.css.map",
+    "main.6980357b.js.map": "/static/js/main.6980357b.js.map",
     "592.c57cb18d.chunk.js.map": "/static/js/592.c57cb18d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7941cb85.css",
-    "static/js/main.65bdaa08.js"
+    "static/css/main.8b78bf45.css",
+    "static/js/main.6980357b.js"
   ]
 }
