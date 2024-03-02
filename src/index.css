@@ -51,18 +51,19 @@ code {
   margin: 0 auto;
   overflow: hidden;
   /* change width  */
-  max-width: 150px;
+  max-width: 800px;
 }
 
 .slideshowSlider {
   white-space: nowrap;
-  transition: ease 1000ms;
+  transition:  2000ms;
+  /* transition: ease 2000ms; */
 }
 
 .slide {
   display: inline-block;
   /* change height */
-  height: 100px;
+  height: 250px;
   width: 100%;
   border-radius: 40px;
 }
@@ -795,11 +796,11 @@ video {
 }
 
 .h-48 {
-  height: 12rem;
+  height: 2rem;
 }
 
 .h-\[300vh\] {
-  height: 300vh;
+  height: 200vh;
 }
 
 .h-\[450px\] {
@@ -807,7 +808,7 @@ video {
 }
 
 .h-screen {
-  height: 100vh;
+  height: 80vh;
 }
 
 .w-\[450px\] {
